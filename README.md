@@ -1,6 +1,6 @@
 # Team 78 — Evolocity 2026 Go Kart
 
-[![Marvle3d](https://img.shields.io/badge/Title%20Sponsor-Marvle3d-ff6b35?style=for-the-badge)](https://marvle3d.com)
+[![Marvle3d](https://img.shields.io/badge/Title%20Sponsor-Marvle3d-ff6b35?style=for-the-badge)](https://marvle3d.co.nz)
 
 **Presented by Marvle3d** — This project is proudly sponsored by **Marvle3d**, who are providing 3D printing filament for the go kart body.
 

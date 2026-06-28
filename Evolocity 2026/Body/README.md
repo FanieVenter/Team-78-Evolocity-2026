@@ -2,7 +2,7 @@
 
 3D-printed body and chassis design for the Team 78 Evolocity 2026 go kart.
 
-**Sponsored by [Marvle3d](https://marvle3d.com)** — providing the 3D printing filament to bring this body to life.
+**Sponsored by [Marvle3d](https://marvle3d.co.nz)** — providing the 3D printing filament to bring this body to life.
 
 Designed in **FreeCAD** and **Blender**. The body is printed on FDM printers using filament supplied by Marvle3d.
 

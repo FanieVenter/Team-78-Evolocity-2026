@@ -3,13 +3,7 @@
 A custom 2-speed planetary gearbox designed in **FreeCAD** for the Team 78 Evolocity 2026 go kart.
 
 Uses friction engagement to switch between a chosen ratio and direct drive. Cams control the position of the ring gear and contact point to select the gear.
-
-## Files
-
-- `Gearbox.FCStd` — FreeCAD source
-- `Gearbox.step` — STEP export
-- `Gearbox.stl` — STL mesh
-- `Gear 1/` — Individual gear components (Sun Gear, Ring Gear, Planet Gear, Planet Carrier, Input Shaft, Contact Point, Shifter)
+To use and test this project you need to 3d print it and assemble.
 
 ## Renders
 

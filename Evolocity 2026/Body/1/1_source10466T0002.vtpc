@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VTKFile type="vtkPartitionedDataSetCollection" version="1.0" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <vtkPartitionedDataSetCollection>
+    <Partitions index="0">
+      <DataSet index="0" file="1_source10466T0002/1_source10466T0002_0_0.vtp"/>
+    </Partitions>
+  </vtkPartitionedDataSetCollection>
+  <FieldData>
+    <DataArray type="Int8" Name="CasePath" NumberOfTuples="68" format="binary" RangeMin="0" RangeMax="121">
+      AQAAAACAAABEAAAANgAAAA==eJxzsYpxLcvPyU/OLKlUcM9XyE4sKkESMTIwMotxyk+pRFXlDVSll5QWk5xYnBrDAABJYBgb
+    </DataArray>
+    <DataArray type="Int32" Name="vtkGeometryRepresentationMultiBlockMaker" NumberOfTuples="0" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+      AAAAAACAAAAAAAAA
+    </DataArray>
+  </FieldData>
+</VTKFile>

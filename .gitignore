@@ -1,1 +1,9 @@
-Evolocity 2026\Body\Evolocity Go Kart.bf
+# Simulation output files
+Evolocity 2026/Body/Evolocity Go Kart.bf/
+aerosim/
+
+# Generated 3D exports (can be regenerated from source files)
+*.stl
+*.gltf
+*.glb
+*.blend1
